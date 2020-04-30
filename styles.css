@@ -107,10 +107,12 @@ a:hover {
 #welcome h2 {
   text-align: center;
   opacity: 0.75;
+  text-transform: uppercase;
 }
 
 #welcome h2 {
   font-size: 1.25rem;
+  font-weight: 400;
 }
 
 #social-media-icons a {
